@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\janjaninRobertZadacaOcjene\janjaninRobertZadacaOcjene\obj\Debug\janjaninRobertZadacaOcjene.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\janjaninRobertZadacaOcjene\janjaninRobertZadacaOcjene\bin\Debug\janjaninRobertZadacaOcjene.exe.config
+C:\Users\Korisnik\source\repos\janjaninRobertZadacaOcjene\janjaninRobertZadacaOcjene\bin\Debug\janjaninRobertZadacaOcjene.exe
+C:\Users\Korisnik\source\repos\janjaninRobertZadacaOcjene\janjaninRobertZadacaOcjene\bin\Debug\janjaninRobertZadacaOcjene.pdb
+C:\Users\Korisnik\source\repos\janjaninRobertZadacaOcjene\janjaninRobertZadacaOcjene\obj\Debug\janjaninRobertZadacaOcjene.exe
+C:\Users\Korisnik\source\repos\janjaninRobertZadacaOcjene\janjaninRobertZadacaOcjene\obj\Debug\janjaninRobertZadacaOcjene.pdb
